@@ -1,2 +1,3 @@
 # hello-word
-pruebas de ramificación
+prueba para practicar el flujo de githup, pruebas de ramificación
+texto X de prueba para la ramificación
